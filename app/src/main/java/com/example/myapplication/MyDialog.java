@@ -21,7 +21,6 @@ public class MyDialog extends DialogFragment{
 
         listener = (NoticeDialogListener) context;
 
-
     }
 
     @NonNull
