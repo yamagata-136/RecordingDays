@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recording Days</string>
+    <string name="text1">トレーニング継続日数</string>
+    <string name="text2">日</string>
+    <string name="Button1">DONE</string>
+    <string name="ResetButton">RESET</string>
+</resources>
